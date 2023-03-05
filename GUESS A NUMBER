@@ -35,6 +35,6 @@ do
 }
  while(flag);
  printf("Congrats! You guessed the number %d\n",num);
- printf("Number of trails: %d\n",count);
+printf("Number of trails: %d\n",count);
 
 }
